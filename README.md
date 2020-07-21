@@ -3,7 +3,7 @@
 Me , I'm a simple countryside coder ! :atom: Here are few projects I'm most proud of 
 
 #### Webrtcdevelopment SDK
-*MIT WebRTC development accelerator* <a href="https://www.npmjs.com/package/webrtcdevelopment"><img src="https://altanaitelecom.files.wordpress.com/2015/05/webrtc_development_logo.png" align="left" width="50" ></a>
+*WebRTC development accelerator, MIT* <a href="https://www.npmjs.com/package/webrtcdevelopment"><img src="https://altanaitelecom.files.wordpress.com/2015/05/webrtc_development_logo.png" align="left" width="50" ></a>
 
 #### Ramudorid
 *Robot the cleans litters from roads* <a href="https://medium.com/ramudroid"><img src="https://miro.medium.com/max/700/1*mz1rKAoXEBRVj-AzwJJV3Q.jpeg" align="left" width="100" ></a>
