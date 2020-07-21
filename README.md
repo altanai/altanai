@@ -1,8 +1,6 @@
 > Hope you find what you're looking for.
 
-Me , I'm a simple countryside coder !
-
-:atom: Here are few projects I'm most proud of 
+Me , I'm a simple countryside coder ! :atom: Here are few projects I'm most proud of 
 
 #### Webrtcdevelopment SDK
 *MIT WebRTC development accelerator* <a href="https://www.npmjs.com/package/webrtcdevelopment"><img src="https://altanaitelecom.files.wordpress.com/2015/05/webrtc_development_logo.png" align="left" width="50" ></a>
