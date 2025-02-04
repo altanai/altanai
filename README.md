@@ -16,4 +16,6 @@ Most of my work is around VoIP , WebRTC and telecommunications software
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/altanai/)
 
-[One Page resume](https://altanai.github.io/)
+[CV](https://altanai.github.io/)
+
+[About Me](https://telecom.altanai.com/altanai/)
